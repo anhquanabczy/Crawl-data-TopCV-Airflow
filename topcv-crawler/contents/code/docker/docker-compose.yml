@@ -15,7 +15,7 @@ x-airflow-common: &airflow_common
     # Biến cho Scrapy crawler
     - CRAWLER_DATABASE_HOST=mysql
     - CRAWLER_DATABASE_USERNAME=root
-    - CRAWLER_DATABASE_PASSWORD=nghia
+    - CRAWLER_DATABASE_PASSWORD=admin
     - CRAWLER_DATABASE_NAME=crawler
 
     # Email (tùy chọn)
