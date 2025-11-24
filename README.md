@@ -38,5 +38,5 @@ Sau khi khởi động, truy cập qua địa chỉ:
 - Giao diện airflow: http://localhost:8080
 - Thông tin đăng nhập:
   - username: **admin**
-  - password: **nghia**
+  - password: **admin**
 - MySQL: http://localhost:6205
