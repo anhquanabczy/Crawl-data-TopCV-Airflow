@@ -35,7 +35,8 @@ docker-compose -f "docker-compose.yml" up -d --build
 ```
 Sau khi khởi động, truy cập qua địa chỉ:
 
-- Giao diện airflow: http://localhost:8080
+- Giao diện airflow: http://localhost:8080 hoặc http://localhost:8080/home
+  
 - Thông tin đăng nhập:
   - username: **admin**
   - password: **admin**
