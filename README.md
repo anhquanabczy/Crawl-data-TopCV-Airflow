@@ -41,3 +41,5 @@ Sau khi khởi động, truy cập qua địa chỉ:
   - username: **admin**
   - password: **admin**
 - MySQL: http://localhost:6205
+- chỉnh link ở contents\code\scrapy\datawarehouse\spiders\topcv_crawler.py 
+
