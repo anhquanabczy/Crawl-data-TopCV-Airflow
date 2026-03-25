@@ -1,5 +1,4 @@
 # Crawl-data-TopCV-Airflow
-link gốc của https://github.com/whynotnghiavu/nghia-crawl-data-scrapy-topcv-crawler
 
 Thu thập dữ liệu trên trang web https://www.topcv.vn, bao gồm các thông tin:
 - job_url: Địa chỉ URL công việc
@@ -43,3 +42,4 @@ Sau khi khởi động, truy cập qua địa chỉ:
 - MySQL: http://localhost:6205
 - chỉnh link ở contents\code\scrapy\datawarehouse\spiders\topcv_crawler.py 
 
+link gốc của https://github.com/whynotnghiavu/nghia-crawl-data-scrapy-topcv-crawler
